@@ -7,7 +7,7 @@ This project aims to help raise novice front-end engineer's ability to solve jav
 
 <!-- Our front end was implemented using react along with redux. -->
 
-##Technologies
+## Technologies
 version:
          nodejs: 8.9.4
          reacjs:16.2.0
