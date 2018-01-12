@@ -1,9 +1,9 @@
 import React from 'react';
 
 const SB = () => (
-  <div>
+    <div>
     Hi! Team! Welcome to NaOffer project.
-  </div>
-  );
+    </div>
+);
 
 export default SB;
